@@ -13,3 +13,5 @@ https://drive.google.com/drive/folders/1ddQA2rhL3Aq39XOsjZOZMMq3Jufjn2WC?usp=sha
 
 The colab link is:
 https://colab.research.google.com/drive/1EN6GG1Sm0uD5_DE5BNY-YAenuYjTJmIV
+
+The process is clearly shown in the videos.
