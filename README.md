@@ -1,6 +1,6 @@
 # Indian-Sign-Language-Alphabets-Translation
 
-Created a dataset of gesture of each alphabet in Indian Sign Language, used resnet32 architecture for creating a classifier and opencv for separating user's hand from the background and classifying each frame.
+Created a dataset of gesture of each alphabet in Indian Sign Language, used resnet32 architecture for creating a classifier and opencv for separating user's hand from the background and classifying each frame. Check out the video files to see demo.
 
 For creating the dataset multiple videos of each gesture were captured and a set number of frames were exrtracted for each gesture.
 
